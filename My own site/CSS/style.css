@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com");
+
+@import url("components/container.css");
+
+@import url("components/avatar.css");
+
+@import url("components/button.css");
+
+@import url("components/banner.css");
+
+@import url("components/card.css");
+
+body{
+	font-family: 'AR One Sans', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+
+}
+
+
+
+h1 {
+    color: #B0578D ;
+   font-family: 'Young Serif', serif;
+    font-weight: bolder;
+    letter-spacing: 0px;
+    font-size: 50px;
+}
+
+h2 {
+	color: black;
+	font-family: 'Dela Gothic One', cursive;
+	font-size: 30px;
+}
+
+
+h3 {
+	color: black;
+	font-family: 'Dela Gothic One', cursive;
+	font-size: 20px;
+	}
+
+
+a {
+	text-decoration: none;
+} 
+
+
+
+
+
+
+
+
